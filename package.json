@@ -1,0 +1,24 @@
+{
+  "name": "webauth3c",
+  "version": "1.0.0",
+  "description": "this is my descrition",
+  "main": "knexfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astillo/WebAuth3C.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astillo/WebAuth3C/issues"
+  },
+  "homepage": "https://github.com/astillo/WebAuth3C#readme",
+  "dependencies": {
+    "express-session": "^1.16.2",
+    "nodemon": "^1.19.2"
+  }
+}
