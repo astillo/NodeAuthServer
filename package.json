@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/astillo/WebAuth3C#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express-session": "^1.16.2",
-    "nodemon": "^1.19.2"
+    "helmet": "^3.21.0",
+    "knex": "^0.19.4",
+    "nodemon": "^1.19.2",
+    "sqlite3": "^4.1.0"
   }
 }
